@@ -2,9 +2,9 @@
   "name": "soundboard",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "generate-and-serve.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node generate-and-serve.js"
   },
   "author": "",
   "license": "ISC",
